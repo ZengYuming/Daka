@@ -1,0 +1,15 @@
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\bin\Release\Daka.exe.config
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\bin\Release\Daka.exe.manifest
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\bin\Release\Daka.application
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\bin\Release\Daka.exe
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\bin\Release\Daka.pdb
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\bin\Release\WebDriver.dll
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\bin\Release\WebDriver.Support.dll
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\bin\Release\WebDriver.xml
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\bin\Release\WebDriver.Support.xml
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\obj\Release\Daka.exe.manifest
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\obj\Release\Daka.application
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\obj\Release\Daka.exe
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\obj\Release\Daka.pdb
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\bin\Release\IEDriverServer.exe
+C:\Users\v-tzeng\Documents\Visual Studio 2012\Projects\Daka\Daka\obj\Release\Daka.csprojResolveAssemblyReference.cache
